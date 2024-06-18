@@ -7,14 +7,13 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
 - [JavaScript Journey: From Basics to Mastery 🚀](#javascript-journey-from-basics-to-mastery-)
 - [📚 Table of Contents](#-table-of-contents)
   - [Introduction](#introduction)
-  - [🚀 How to Use This Repository](#-how-to-use-this-repository)
-  - [🗂️ Repository Structure](#️-repository-structure)
+  - [How to Use This Repository](#how-to-use-this-repository)
+  - [Repository Structure](#repository-structure)
     - [Week 1: Introduction to JavaScript](#week-1-introduction-to-javascript)
-  - [🤝 Contributions](#-contributions)
-  - [🌐 Stay Connected](#-stay-connected)
-
+  - [Contributions](#contributions)
+  - [Stay Connected](#stay-connected)
+  
 ## Introduction
-
 -   Code examples
 -   Detailed explanations
 -   Interactive exercises
@@ -22,7 +21,7 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
 
 **Follow along to enhance your JavaScript skills and build awesome projects!**
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 **Clone the repository:**
 
@@ -30,20 +29,22 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
 
 **Navigate to the relevant week and day folder:**
 
-    cd javascript-journey/Week-1/Day-1
+    cd javascript-journey/week-1/day-1
     
-## 🗂️ Repository Structure
+## Repository Structure
 
 ### Week 1: Introduction to JavaScript
--   **Day 1:** What is JavaScript?
+
+-   **Day 1: Introduction to JavaScript**
+    -   What is JavaScript?
 
 **Note - Updated as Day goes by**
 
-## 🤝 Contributions
+## Contributions
 
 We welcome all contributions that can enhance this learning journey! Whether it's fixing bugs, improving examples, or adding new exercises, your help is appreciated.
 
-## 🌐 Stay Connected
+## Stay Connected
 Follow me on LinkedIn for daily posts, and interactive content. Let’s embark on this JavaScript journey together!
 
 <p align="center">
