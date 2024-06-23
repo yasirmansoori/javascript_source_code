@@ -35,8 +35,21 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
 
 ### Week 1: Introduction to JavaScript
 
--   **Day 1: Introduction to JavaScript**
-    -   What is JavaScript?
+-   **Day 1: What is JavaScript?**
+      - History 
+      - Why Javascript?
+      - The backbone of Web Interactivity
+      - Features and applications
+      - Javascript in action
+      - Did you know?    
+
+-   **Day 2: Getting started with JS**
+      - Setting Up Your Development Environment
+      - Writing Your First JavaScript Program
+      - Understanding the Basics
+      - Using the Browser Console
+      - Best Practices for Beginners
+      - Did you know?
 
 **Note - Updated as Day goes by**
 
