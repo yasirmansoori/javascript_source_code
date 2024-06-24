@@ -51,6 +51,16 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
       - Best Practices for Beginners
       - Did you know?
 
+-   **Day 3: Node.js for javascript**
+      - Introduction to Node.js
+      - Why Use Node.js?
+      - Setting Up Node.js
+      - Creating Your First Node.js Application
+      - Node.js Modules
+      - npm – Node Package Manager
+      - Building a Simple Web Server with Express
+      - Did you know?
+
 **Note - Updated as Day goes by**
 
 ## Contributions
