@@ -61,6 +61,16 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
       - Building a Simple Web Server with Express
       - Did you know?
 
+-   **Day 4: Javascript Versions**
+      - Introduction to JavaScript Versions
+      - Early Days - ES1 to ES3
+      - ECMAScript 5 (ES5)
+      - ECMAScript 6 (ES6/ES2015)
+      - ECMAScript 7 (ES7/ES2016) and ES8 (ES2017)
+      - ECMAScript 9 (ES9/ES2018) and ES10 (ES2019)
+      - ECMAScript 11 (ES11/ES2020) and Beyond
+      - Did you know?
+
 **Note - Updated as Day goes by**
 
 ## Contributions
