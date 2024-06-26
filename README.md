@@ -71,6 +71,17 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
       - ECMAScript 11 (ES11/ES2020) and Beyond
       - Did you know?
 
+-   **Day 5: JavaScript Statements**
+      - Introduction to JavaScript Statements
+      - Declaration Statements
+      - Conditional Statements
+      - Looping Statements
+      - Function Statements
+      - Exception Handling
+      - Other Statements
+      - Did You Know?
+
+
 **Note - Updated as Day goes by**
 
 ## Contributions
