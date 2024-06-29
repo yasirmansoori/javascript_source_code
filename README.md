@@ -10,6 +10,7 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
   - [How to Use This Repository](#how-to-use-this-repository)
   - [Repository Structure](#repository-structure)
     - [Week 1: Introduction to JavaScript](#week-1-introduction-to-javascript)
+    - [Week 2:  JavaScript variables, data types, and operators.](#week-2--javascript-variables-data-types-and-operators)
   - [Contributions](#contributions)
   - [Stay Connected](#stay-connected)
   
@@ -81,6 +82,28 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
       - Other Statements
       - Did You Know?
 
+-  **Day 6: Syntax, case, comments and other basics of Js.**
+      - Basics of JavaScript: Syntax, Case, Comments, and More
+      - JavaScript Syntax
+      - Case Sensitivity
+      - Comments in JavaScript
+      - Operators in JavaScript
+      - Conclusion and Best Practices
+      - Did You Know?
+
+### Week 2:  JavaScript variables, data types, and operators.
+
+-   **Day 1: JavaScript Variables**
+      - Introduction to JavaScript Variables
+      - Declaring Variables with var
+      - Declaring Variables with let
+      - Declaring Variables with const
+      - Understanding Variable Scope
+      - Variable Hoisting
+      - Differences Between var, let, and const
+      - Best Practices for Using Variables
+      - common examples
+      - Common Mistakes with Variables
 
 **Note - Updated as Day goes by**
 
