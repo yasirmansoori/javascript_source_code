@@ -10,7 +10,7 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
   - [How to Use This Repository](#how-to-use-this-repository)
   - [Repository Structure](#repository-structure)
     - [Week 1: Introduction to JavaScript](#week-1-introduction-to-javascript)
-    - [Week 2:  JavaScript variables, data types, and operators.](#week-2--javascript-variables-data-types-and-operators)
+    - [Week 2: JavaScript variables, data types, and operators.](#week-2-javascript-variables-data-types-and-operators)
   - [Contributions](#contributions)
   - [Stay Connected](#stay-connected)
   
@@ -91,7 +91,7 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
       - Conclusion and Best Practices
       - Did You Know?
 
-### Week 2:  JavaScript variables, data types, and operators.
+### Week 2: JavaScript variables, data types, and operators.
 
 -   **Day 1: JavaScript Variables**
       - Introduction to JavaScript Variables
@@ -104,6 +104,26 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
       - Best Practices for Using Variables
       - common examples
       - Common Mistakes with Variables
+
+-   **Day 2: Data Types in JavaScript!**
+      - Primitive Data Types: Strings, Numbers, Booleans, Null, Undefined, Symbols, BigInt.
+      - Non-Primitive Data Types: Objects, Arrays, Functions.
+      - String data type 
+      - Number data type 
+      - Booleans
+      - Null and Undefined
+      - Objects and Typeof operator
+      - Arrays
+      - Functions
+      - Type Conversion
+
+-   **Day 2: String Data Type in JavaScript!**
+      - Creating Strings
+      - String Methods 
+      - Template Literals
+      - String Concatenation
+      - Escape Sequences
+      - String Immutability
 
 **Note - Updated as Day goes by**
 
