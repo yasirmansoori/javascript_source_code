@@ -117,13 +117,24 @@ Welcome to the **JavaScript Journey: From Basics to Mastery** repository! This r
       - Functions
       - Type Conversion
 
--   **Day 2: String Data Type in JavaScript!**
+-   **Day 3: String Data Type in JavaScript!**
       - Creating Strings
       - String Methods 
       - Template Literals
       - String Concatenation
       - Escape Sequences
       - String Immutability
+
+-   **Day 4: Number Data Type in JavaScript!**
+      - Numeric Literals
+      - Special Numeric Values
+      - Number Properties
+      - Properties overview
+      - Basic Arithmetic Operations
+      - Increment and Decrement
+      - Type Conversion
+      - Math Object Overview
+      - Scientific Notation
 
 **Note - Updated as Day goes by**
 
